@@ -1,0 +1,72 @@
+PODS:
+  - Alamofire (5.6.4)
+  - IQKeyboardManagerSwift (6.5.11)
+  - KeychainSwift (20.0.0)
+  - Kingfisher (6.3.1)
+  - MobilliumBuilders (1.4.3)
+  - MobilliumUserDefaults (2.0.0)
+  - Segmentio (4.1)
+  - SKPhotoBrowser (7.1.0)
+  - SwiftEntryKit (2.0.0)
+  - SwiftGen (6.6.2)
+  - SwiftLint (0.50.3)
+  - SwiftValidator (4.0.0)
+  - TinyConstraints (4.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - IQKeyboardManagerSwift (~> 6.5)
+  - KeychainSwift (~> 20.0)
+  - Kingfisher (~> 6.3.1)
+  - MobilliumBuilders (~> 1.4)
+  - MobilliumUserDefaults (~> 2.0)
+  - Segmentio (~> 4.1)
+  - SKPhotoBrowser (~> 7.0)
+  - SwiftEntryKit (~> 2.0)
+  - SwiftGen (~> 6.5)
+  - SwiftLint (~> 0.46)
+  - SwiftValidator (from `https://github.com/mobillium/SwiftValidator.git`)
+  - TinyConstraints (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - KeychainSwift
+    - Kingfisher
+    - MobilliumBuilders
+    - MobilliumUserDefaults
+    - Segmentio
+    - SKPhotoBrowser
+    - SwiftEntryKit
+    - SwiftGen
+    - SwiftLint
+    - TinyConstraints
+
+EXTERNAL SOURCES:
+  SwiftValidator:
+    :git: https://github.com/mobillium/SwiftValidator.git
+
+CHECKOUT OPTIONS:
+  SwiftValidator:
+    :commit: 3cfa36ccbd4da0d89b7792032c907b432298ce93
+    :git: https://github.com/mobillium/SwiftValidator.git
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  KeychainSwift: 0ce6a4d13f7228054d1a71bb1b500448fb2ab837
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  MobilliumBuilders: 2171277c225a6b4295d0b29d75b50d4908f093d5
+  MobilliumUserDefaults: 002aa4bb663127d2dcc0814c17430c918a1e1445
+  Segmentio: ab29def64e1bff6e6e9b97671788a99bed3f1d9f
+  SKPhotoBrowser: cd95b95a6f352fc2a50992721299f75ead77f9ab
+  SwiftEntryKit: 61b5fa36f34a97dd8013e48a7345bc4c4720be9a
+  SwiftGen: 1366a7f71aeef49954ca5a63ba4bef6b0f24138c
+  SwiftLint: 77f7cb2b9bb81ab4a12fcc86448ba3f11afa50c6
+  SwiftValidator: dc1ffa1102b49a47f2d816899de55d70281a2994
+  TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
+
+PODFILE CHECKSUM: c60e42f38c57691cbdd465b9999d7d713fcaef7e
+
+COCOAPODS: 1.11.3

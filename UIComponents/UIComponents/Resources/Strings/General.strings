@@ -1,0 +1,23 @@
+/* 
+  General.strings
+  UIComponents
+
+  Created by cihan on 24.03.23.
+  
+*/
+
+// MARK: General
+"login" = "Giriş Yap";
+"register" = "Üye Ol";
+"comment" = "Yorum";
+"like" = "Beğeni";
+"follow" = "Takip Et";
+"following" = "Takip Ediliyor";
+"recipeIngredients" = "Malzemeler";
+"recipeSteps" = "Yapılışı";
+"addComment" = "Yorum Ekle";
+"comments" = "Yorumlar";
+"giveUp" = "Vazgeç";
+"login" = "Giriş Yap";
+"recipe" = "Tarif";
+"follower" = "Takipçi";
