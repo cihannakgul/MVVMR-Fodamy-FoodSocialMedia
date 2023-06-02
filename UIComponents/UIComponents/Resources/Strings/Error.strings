@@ -1,0 +1,17 @@
+/* 
+  Error.strings
+  UIComponents
+
+  Created by cihan on 24.03.23.
+  
+*/
+
+"empty" = "%@ alanı boş olamaz.";
+"refreshFromTop" = "Lütfen ekranı yukarıdan aşağıya kaydırarak yenileyiniz.";
+"emptyFields" = "Lütfen boş alanları doldurunuz.";
+"checkInformations" = "Lütfen bilgilerinizi kontrol ediniz.";
+
+// MARK: - Keys
+"Key.username" = "Username";
+"Key.email" = "E-posta";
+"Key.comment" = "Yorum";
