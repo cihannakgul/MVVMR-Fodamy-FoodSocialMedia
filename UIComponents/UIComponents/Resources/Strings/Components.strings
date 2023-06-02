@@ -1,0 +1,12 @@
+/* 
+  Components.strings
+  UIComponents
+
+  Created by cihan on 24.03.23.
+  
+*/
+
+// MARK: - Action
+"Action.block" = "Block";
+"Action.loginWarning" = "Giriş yapmanız gereklidir.";
+"Comment.placeholder" = "Bir şeyler yazın..";
